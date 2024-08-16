@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="43dd0d7a-77d3-4f95-b918-d16584d4ed6d" name="Changes" comment="exercicios01">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios01/Exercicios01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios01/src/Exe01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios01/src/Exe02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios01/src/Exe03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios01/src/Exe04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios01/src/Exe05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios01/src/Exe06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios01/src/Exe07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios01/src/Exe08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios01/src/Exe09.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios01/src/Exe10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios01/src/Exe11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios01/src/Exe12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios01/src/Exe13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios01/src/Exe14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios01/src/Exe15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios01/src/Exe16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios01/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2kkjlAc5MUSqLjPMyV9SEQQaKIt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Segatto/IdeaProjects/bpk-es-ads-poo-java2024/Exercicios01/src/Main.java&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43dd0d7a-77d3-4f95-b918-d16584d4ed6d" name="Changes" comment="" />
+      <created>1723834616222</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723834616222</updated>
+    </task>
+    <task id="LOCAL-00001" summary="exercicios01">
+      <option name="closed" value="true" />
+      <created>1723835556794</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1723835556794</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="exercicios01" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercicios01" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Exercicios01/src/Main.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
