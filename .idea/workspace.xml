@@ -4,7 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="43dd0d7a-77d3-4f95-b918-d16584d4ed6d" name="Changes" comment="exercicios01">
+    <list default="true" id="43dd0d7a-77d3-4f95-b918-d16584d4ed6d" name="Changes" comment="exercicios01 atualizado">
+      <change afterPath="$PROJECT_DIR$/Exercicios02/Exe01/Exe01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios02/Exe01/src/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios02/Exe01/src/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios02/Exe01/src/Bicicleta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios02/Exe01/src/Cachorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios02/Exe01/src/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios02/Exe01/src/Celular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios02/Exe01/src/Cidade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios02/Exe01/src/Computador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios02/Exe01/src/ContaBancaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios02/Exe01/src/Cozinha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios02/Exe01/src/Empresa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios02/Exe01/src/Filme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios02/Exe01/src/Jogo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios02/Exe01/src/LivroDigital.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios02/Exe01/src/Loja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios02/Exe01/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios02/Exe01/src/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios02/Exe01/src/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios02/Exe01/src/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios02/Exe01/src/Time.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios02/Exe01/src/livro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios02/Exercicios02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios02/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -12,21 +37,28 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "joaopedroleonel"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;joaopedroleonel&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/joaopedroleonel/bpk-es-ads-poo-java2024.git",
-    "accountId": "1770e1d0-a82e-44e6-af83-5bb453e95deb"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/joaopedroleonel/bpk-es-ads-poo-java2024.git&quot;,
+    &quot;accountId&quot;: &quot;1770e1d0-a82e-44e6-af83-5bb453e95deb&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -38,21 +70,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/Segatto/IdeaProjects/bpk-es-ads-poo-java2024/Exercicios01/src/Main.java",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Segatto/IdeaProjects/bpk/Exercicios02&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Segatto/IdeaProjects/bpk/Exercicios02/Exe01/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Segatto\IdeaProjects\bpk\Exercicios02" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -70,13 +108,22 @@
       <option name="project" value="LOCAL" />
       <updated>1723835556794</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="exercicios01 atualizado">
+      <option name="closed" value="true" />
+      <created>1723838326473</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1723838326473</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="exercicios01" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercicios01" />
+    <MESSAGE value="exercicios01 atualizado" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercicios01 atualizado" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -85,6 +132,11 @@
           <url>file://$PROJECT_DIR$/Exercicios01/src/Main.java</url>
           <line>29</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Exercicios02/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
