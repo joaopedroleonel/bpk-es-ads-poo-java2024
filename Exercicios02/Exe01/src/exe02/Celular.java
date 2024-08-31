@@ -32,7 +32,13 @@ public class Celular {
     }
 
     public void setCapacidadeDaBateria(int capacidadeDaBateria) {
-        this.capacidadeDaBateria = capacidadeDaBateria;
+
+        if(capacidadeDaBateria > 0) {
+            this.capacidadeDaBateria = capacidadeDaBateria;
+        } else {
+            System.out.println("numero é negativo");
+        }
+
     }
 
     public void setMarca(String marca) {

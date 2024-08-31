@@ -5,5 +5,6 @@ public class testCelular {
         Celular celular = new Celular("Samsuga", "A20", 20);
         celular.Ligar();
         celular.Desligar();
+        celular.setCapacidadeDaBateria(-1);
     }
 }

@@ -32,7 +32,13 @@ public class Computador {
     }
 
     public void setArmazenamento(int armazenamento) {
-        this.armazenamento = armazenamento;
+        if(armazenamento > 10) {
+
+            this.armazenamento = armazenamento;
+
+        } else {
+            System.out.println("Armazenamento não pode ser negativo");
+        }
     }
 
     public void setProcessador(String processador) {
@@ -40,7 +46,13 @@ public class Computador {
     }
 
     public void setMemoriaRam(int memoriaRam) {
-        this.memoriaRam = memoriaRam;
+
+        if(memoriaRam > 0) {
+            this.memoriaRam = memoriaRam;
+        } else {
+            System.out.println("Memoria ram não pode ser negativo");
+        }
+
     }
 
     void Ligar() {

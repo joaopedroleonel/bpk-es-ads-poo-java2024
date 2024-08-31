@@ -16,7 +16,11 @@ public class Livro {
 
     @Override
     public String toString() {
-        return ("\nTitulo: " + titulo + "\nAutor: " + autor + "\nNumero de Paginas: " + numeroDePaginas);
+        return "Livro{" +
+                "titulo='" + titulo + '\'' +
+                ", autor='" + autor + '\'' +
+                ", numeroDePaginas=" + numeroDePaginas +
+                '}';
     }
 
     public String getTitulo() {
@@ -40,7 +44,13 @@ public class Livro {
     }
 
     public void setNumeroDePaginas(int numeroDePaginas) {
-        this.numeroDePaginas = numeroDePaginas;
+
+        if(numeroDePaginas > 0) {
+            this.numeroDePaginas = numeroDePaginas;
+        } else {
+            System.out.println("numero é negativo");
+        }
+
     }
 
     public void abrirLivro() {
